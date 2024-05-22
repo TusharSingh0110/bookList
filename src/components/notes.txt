@@ -1,0 +1,7 @@
+rfc   (Function based component)
+rce   (Class based component)
+
+
+
+1:  when we have to send some data within different components , then we use "props"
+2:  when we have to send data within the same component , then we use "state"  but this is only used inside "class based component"
